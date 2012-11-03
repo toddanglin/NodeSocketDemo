@@ -1,0 +1,14 @@
+{
+  "name": "NodeSocketDemo",
+  "subdomain": "nodesocketdemo",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.8.12",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "socket.io": "*"
+  }
+}
